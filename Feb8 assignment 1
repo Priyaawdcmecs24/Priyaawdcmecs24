@@ -1,0 +1,14 @@
+a=10
+b=5
+c=a<b
+print (c) 
+d=a>b 
+Print (d)
+e=a>=b
+Print (e)
+f=a<=b
+Print (f)
+g=a==b
+Print (g)
+h=a!=b
+Print (h)
